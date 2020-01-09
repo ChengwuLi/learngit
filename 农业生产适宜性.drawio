@@ -1,1 +1,124 @@
-<mxfile host="www.draw.io" modified="2020-01-08T03:29:44.890Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="LxCyPxsF99em-W6LpB6Y" version="12.4.9" type="github"><diagram id="XK1XmLQXnbIP61ymJFWy" name="第 1 页">5Vtdj5s4FP01fpwVxnz5ESfQWakjdTVqu903NmETKhJHDMkk/fV7bUwCwaSZZhozEykP9sXm43IO595rB5HRYvuhSFbzBz5Nc2Rb0y0iY2Tb2LFtJH7WdFdZfOpUhlmRTdWgg+Ex+5Eqo6Ws62yaPrUGlpznZbZqGyd8uUwnZcuWFAV/bg/7j+ftq66SWdoxPE6SvGv9mk3LeWUNbP9gv0+z2by+MvZodWSR1IPVkzzNkyl/bphIhMio4LysWovtKM2F82q/VPPinqP7GyvSZXnOhC+4/G4RNyObv3azTTH5534zv/PUvZW7+oHTKTy/6vKinPMZXyZ5dLCygq+X01Sc1YLeYcxHzldgxGD8npblTr3MZF1yMM3LRa6OVtcUF+p9FGV64utiokb9uIu9z/GfD/yB76IP/v3dl89f72pIJMUsLU88p7t3OCA15Yu0LHYwr0jzpMw27ftIFGRm+3EHr0JDOVbv5FM3uUnytboSilxExyjEosFCFHqiEQQogIaHaISo1Xkzbb8/z7MyfVwl0j3PQD6djzUu3aRFmW4bpq5X1FGibkExt8bxc4MGyjRvMMC1Lvei9hXuMXFVrIL7it3fYv4fbt39pk4nO+Ntq7dTvVfEuH0mxjE1CXJbA3IPMQsxB0UBYgBvR1pCgW2whLG0OIgxxHzjaLedNtyxcbw7N4p3cibeq9DiArzLqWFRJLvGgBXPluVT48yfhKHxVaRtnBB8JLvH42331HhoVHdwAMr+UX6djKSPjBB9CaGBBtVx0MvB4ezfAloz0UJRjNhICJOYBT+Y5aOAoHAsdaqSsGq6Vw+mxrlM3KFxueuT2+Cycy6XLw3QfonLvnOSm53xDjHAZUfDZeAgRiwSrAwjxMjLuRwjisV54INAYxRRFNrKEkQo8IfDZd9q+9w8l7uxym1w2R00lz3yMl02wmVXy2XFQU/oMvD6ZVyG6UxG1KDvkD+OJbtHiFaJpGS6OHPjEuGA2O0GP1dqbF2V3m+oJKJPA69F04vcrKuJSO0B6AtVs0WU+VJVoyOJcpgOEaqjO2Gll1QIHoic4MYrMqEDe80L7GWC4w2NCYERndtmZUPmoPetceQgcqJTa9x1tVHrq3NzVqOc02WFXdIEomIT1nxiltKRqgH6AgQyzRX889IkvapmdIu17y4k7IfzkEqTp+6yD/cK5depUV6E+3MkglwT+PhWgU+7wO+vipvCPdXgnorKXzBu1ObrSEgTWnkirqJybQpiJiaLiNRHDMtDI1knqMXBNDfso3zOtCZg2wQ1XhHiWJNI9BebjeUR+kQCctwwVjlxSOVXnqmCGaA36L6ba8OVOAOD6w2sNukf/NzQved9XgnmPSs6WC7AeCKSoUQmvLTGu4VC1vi6G09vB4Z3r+vQN/691gTj/QsKxoCsD8bFooOnFiaYdoGjs0JhGtG+NawkFAfvDtH+mYg2W8n0tRHIcVEfcshYLJgLS6iqk2Lnl60arK5FUvMfazcY1sfaJrcanGjyzN+zF+YyCugyzX2CuS+1dCssrrBDW0TsWDBFk4TKfZGhUzeYJFcsoxxIZuU5TfMFH+0d22+dNFaYsc0U780zpha9gS9/1bd5HAYFUiJqyOvZ4Ak+CT2BwWFDahypJ75uY5YvNmxVm7eqMaYZc1zKJI5pxhBNIeFth0/2udV5Yunf1ZWooMsIZLQEkT9gGZAbkndMBeK3qeC4xqlgad6IVOiwzsiEt6kMbe3aMmpsLxm8k93f+L2B7uFfPdXOocN/o0j0Pw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-09T01:42:40.224Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="riaYGyg3oPzj_UrYEu6u" version="12.4.9" type="github">
+  <diagram id="XK1XmLQXnbIP61ymJFWy" name="第 1 页">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="V1tj035i3vQygvrcZHvh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="z-F6UFIMoMoyEG7H-VUW-1" target="V1tj035i3vQygvrcZHvh-5" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="z-F6UFIMoMoyEG7H-VUW-1" value="坡度分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="20" width="80" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z-F6UFIMoMoyEG7H-VUW-2" target="V1tj035i3vQygvrcZHvh-19" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="z-F6UFIMoMoyEG7H-VUW-2" value="水资源评价" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="120" width="80" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z-F6UFIMoMoyEG7H-VUW-3" target="V1tj035i3vQygvrcZHvh-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="310"/>
+              <mxPoint x="325" y="310"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-F6UFIMoMoyEG7H-VUW-3" value="气候评价&lt;br&gt;（光热条件）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="120" width="80" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z-F6UFIMoMoyEG7H-VUW-4" target="V1tj035i3vQygvrcZHvh-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="310"/>
+              <mxPoint x="435" y="310"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-F6UFIMoMoyEG7H-VUW-4" value="灾害评价&lt;br&gt;（发生频率）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="705" y="120" width="80" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z-F6UFIMoMoyEG7H-VUW-5" target="V1tj035i3vQygvrcZHvh-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="310"/>
+              <mxPoint x="435" y="310"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-F6UFIMoMoyEG7H-VUW-5" value="生态评价&lt;br&gt;（盐渍化敏感性）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="120" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V1tj035i3vQygvrcZHvh-1" target="V1tj035i3vQygvrcZHvh-25" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-1" value="环境评价&lt;br&gt;（土壤环境容量）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="120" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V1tj035i3vQygvrcZHvh-3" target="V1tj035i3vQygvrcZHvh-5" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-3" value="土壤质地数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="20" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V1tj035i3vQygvrcZHvh-5" target="V1tj035i3vQygvrcZHvh-19" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-5" value="土地资源评价" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="120" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V1tj035i3vQygvrcZHvh-9" target="z-F6UFIMoMoyEG7H-VUW-2" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-9" value="降水量&lt;br&gt;或干旱指数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="235" y="20" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V1tj035i3vQygvrcZHvh-11" target="z-F6UFIMoMoyEG7H-VUW-3" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-11" value="积温图层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="20" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V1tj035i3vQygvrcZHvh-13" target="V1tj035i3vQygvrcZHvh-1" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-13" value="污染物含量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="465" y="20" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V1tj035i3vQygvrcZHvh-15" target="z-F6UFIMoMoyEG7H-VUW-4" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-15" value="历史灾害频率" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="20" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V1tj035i3vQygvrcZHvh-17" target="z-F6UFIMoMoyEG7H-VUW-5" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-17" value="生态保护红线？" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="585" y="20" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V1tj035i3vQygvrcZHvh-19" target="V1tj035i3vQygvrcZHvh-22" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-19" value="水土资源基础&lt;br&gt;判别矩阵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="230" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V1tj035i3vQygvrcZHvh-22" target="V1tj035i3vQygvrcZHvh-25" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-22" value="初判&lt;br&gt;农业生产条件等级" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="340" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V1tj035i3vQygvrcZHvh-25" target="V1tj035i3vQygvrcZHvh-30" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-25" value="修正&lt;br&gt;农业生产条件等级" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="450" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="V1tj035i3vQygvrcZHvh-30" value="确定适宜性等级" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="540" width="130" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
